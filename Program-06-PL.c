@@ -1,6 +1,6 @@
 /*
-Program (6) -> Write a program to calculate the average of three numbers.
-Solution(2) -> User Define Values
+Program (06) -> Write a program to calculate the average of three numbers.
+Solution(02) -> User Define Values
 */
 
 #include<stdio.h>
